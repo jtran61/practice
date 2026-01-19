@@ -1,6 +1,4 @@
-# practice ***server side person was here!
+# practice %%%%%%%UI person is here!!!!!!
 
 
-
-
-*more server side stuff
+%%%more UI stuff
